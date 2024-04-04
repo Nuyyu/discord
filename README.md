@@ -1,0 +1,2 @@
+# discord
+Bütün discord versiyonları
